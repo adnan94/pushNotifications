@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cloud Messaging Push Example</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="not_sign_first">Don\'t have an account?</string>
+    <string name="not_sign_second">Sign up now.</string>
+    <string name="username">Enter Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="auth_failed">Authorization Failed!</string>
+    <string name="password_error">Password too short!</string>
+</resources>
